@@ -1,4 +1,6 @@
-In this assignment i designed the concept of an Interactive Navigation Application for the city of Ioannina (in Greek pdf)
+In this assignment i designed the concept of an Interactive Navigation Application for the city of Ioannina.
+
+The projet's pdf (in Greek) are:
 
 1. The app's design Powerpoint presentation is in the APP_PRESENTATION 
 2. The final report of the app's design is in the APP_REPORT_pdf
